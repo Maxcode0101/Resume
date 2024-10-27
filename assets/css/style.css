@@ -351,7 +351,7 @@ footer {
     max-width: 70%;
 }
 
-button [type="submit"] {
+button[type="submit"] {
     margin-top: 15px;
     margin-bottom: 20px;
     color: #fafafa;
@@ -360,7 +360,7 @@ button [type="submit"] {
 
 /* -------------------------------- Media Queries */
 
-@media(min-widt: 992px) {
+@media(min-width: 992px) {
     .center-form {
         padding-top: 30px;
         min-height: 240px;
